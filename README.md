@@ -1,4 +1,4 @@
-# KartRider-test
+# 
 
 Taiwan : http://tw.cdnpatch.kartrider.beanfun.com/kartrider/2120/files.nfo2
 
