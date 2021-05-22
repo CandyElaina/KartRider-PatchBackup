@@ -10,9 +10,9 @@
 
 ## Download Link
 
-Taiwan : http://tw.cdnpatch.kartrider.beanfun.com/kartrider/2120/files.nfo2
+Taiwan : http://tw.cdnpatch.kartrider.beanfun.com/kartrider/2142/files.nfo2
 
 China : https://tcmgt.tiancity.com/layout.aspx?pst=2012&uparams=kartPatch
 
-Korea : http://kart.dn.nexoncdn.co.kr/patch/4738/files.nfo2
+Korea : http://kart.dn.nexoncdn.co.kr/patch/4783/files.nfo2
 
